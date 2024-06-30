@@ -30,7 +30,7 @@ export default function app() {
       {/*-------Aşağıdaki div'i düzenleyin------------*/}
 
       <div className='flash-card'>
-        {/*-------Yukarıdaki div'i düzenleyin------------*/}
+        {/*-------Yukarıdaki div'i leyin------------*/}
 
         <div className='flash-card-inner'>
           <div className='flash-card-front'>
